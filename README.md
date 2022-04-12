@@ -9,5 +9,5 @@ sudo emaint sync -r vespa
 ```
 
 ## TODO: Future releases
-- Gnome [Referencer](https://bazaar.launchpad.net/~referencer-devs/referencer/trunk/files)
+- Prover9 Mace 4 GUI
 - Fork of [PDFMod](https://wiki.gnome.org/Attic/PdfMod#:~:text=PDF%20Mod%20is%20a%20simple,documents%20via%20drag%20and%20drop.)
