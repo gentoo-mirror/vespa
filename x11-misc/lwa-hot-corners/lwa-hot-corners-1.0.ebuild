@@ -9,7 +9,7 @@ SRC_URI="https://github.com/thiagovespa/lwa-hot-corners/archive/refs/tags/v1.0.t
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS=""
 
 DEPEND="
 	x11-libs/libX11
