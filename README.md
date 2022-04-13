@@ -5,6 +5,10 @@ Vespa Gentoo Overlay
 
 ```bash
 sudo eselect repository add vespa git https://github.com/thiagovespa/vespa-overlay.git
+```
+
+To sync:
+```bash
 sudo emaint sync -r vespa
 ```
 
